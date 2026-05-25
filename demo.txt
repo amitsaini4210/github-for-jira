@@ -1,1 +1,0 @@
-this is demo file for dockerfile creation intergtaion wit h jira
